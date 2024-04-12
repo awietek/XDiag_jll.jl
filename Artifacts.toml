@@ -169,3 +169,60 @@ os = "linux"
     [[XDiag.download]]
     sha256 = "3a008652fb2918f1902659fa24731587f7b30513a4bb2b22b013c68e0934896d"
     url = "https://github.com/awietek/XDiag_jll.jl/releases/download/XDiag-v0.2.0+0/XDiag.v0.2.0.x86_64-linux-gnu-julia_version+1.9.0.tar.gz"
+[[XDiag]]
+arch = "aarch64"
+git-tree-sha1 = "e0b101f28c7ce9744e56130fdd2019a55ec60c21"
+julia_version = "1.10.0"
+os = "macos"
+
+    [[XDiag.download]]
+    sha256 = "ea1bbc3164798dcf0189ab7cc8e906ae09d80d47df9f5af258185cc94eb3f88f"
+    url = "https://github.com/awietek/XDiag_jll.jl/releases/download/XDiag-v0.2.0+0/XDiag.v0.2.0.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
+[[XDiag]]
+arch = "aarch64"
+git-tree-sha1 = "b67107ce98ec04270aebbe3316d9e4cac05f9674"
+julia_version = "1.8.2"
+os = "macos"
+
+    [[XDiag.download]]
+    sha256 = "55472524f03c0b62d9a7a6fe67879f7e725cfc484780b6a415c14c21161ad5ca"
+    url = "https://github.com/awietek/XDiag_jll.jl/releases/download/XDiag-v0.2.0+0/XDiag.v0.2.0.aarch64-apple-darwin-julia_version+1.8.2.tar.gz"
+[[XDiag]]
+arch = "aarch64"
+git-tree-sha1 = "44085c21574a7fd583da279dceb69a2461f906ff"
+julia_version = "1.9.0"
+os = "macos"
+
+    [[XDiag.download]]
+    sha256 = "ffcb8f5b0f9149c04344032dc9c767786c0f37a93177259f95b36cbbdebae538"
+    url = "https://github.com/awietek/XDiag_jll.jl/releases/download/XDiag-v0.2.0+0/XDiag.v0.2.0.aarch64-apple-darwin-julia_version+1.9.0.tar.gz"
+[[XDiag]]
+arch = "x86_64"
+git-tree-sha1 = "c47be932c0c4fc1b1af8b7cd4781795d10430cf8"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[XDiag.download]]
+    sha256 = "3932e386ee303456422e858a4219acbcdcfa2e3c5b55f6335dd45d65e4173d7e"
+    url = "https://github.com/awietek/XDiag_jll.jl/releases/download/XDiag-v0.2.0+0/XDiag.v0.2.0.x86_64-linux-gnu-julia_version+1.10.0.tar.gz"
+[[XDiag]]
+arch = "x86_64"
+git-tree-sha1 = "5081336ea4faa847395493dac770f5f2b51db075"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[XDiag.download]]
+    sha256 = "1ec5f71a29030c9154c17cf64d0a0585943d485c3eb07c4f3b3f9e5faf305de1"
+    url = "https://github.com/awietek/XDiag_jll.jl/releases/download/XDiag-v0.2.0+0/XDiag.v0.2.0.x86_64-linux-gnu-julia_version+1.8.2.tar.gz"
+[[XDiag]]
+arch = "x86_64"
+git-tree-sha1 = "029217e0a74b0e23bf6b14abe8b3ba52e7cc62b2"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[XDiag.download]]
+    sha256 = "3a008652fb2918f1902659fa24731587f7b30513a4bb2b22b013c68e0934896d"
+    url = "https://github.com/awietek/XDiag_jll.jl/releases/download/XDiag-v0.2.0+0/XDiag.v0.2.0.x86_64-linux-gnu-julia_version+1.9.0.tar.gz"
