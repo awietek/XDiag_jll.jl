@@ -226,3 +226,13 @@ os = "linux"
     [[XDiag.download]]
     sha256 = "3a008652fb2918f1902659fa24731587f7b30513a4bb2b22b013c68e0934896d"
     url = "https://github.com/awietek/XDiag_jll.jl/releases/download/XDiag-v0.2.0+0/XDiag.v0.2.0.x86_64-linux-gnu-julia_version+1.9.0.tar.gz"
+[[XDiag]]
+arch = "x86_64"
+git-tree-sha1 = "5c5761dbf79732c2720bde0adcf6f87ff28c6f43"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[XDiag.download]]
+    sha256 = "e7960f12dd720fbdf62a6b19874554dfa6c4963e776a848d855720c6fb0b983a"
+    url = "https://github.com/awietek/XDiag_jll.jl/releases/download/XDiag-v0.2.0+0/XDiag.v0.2.0.x86_64-linux-gnu-julia_version+1.9.0.tar.gz"
