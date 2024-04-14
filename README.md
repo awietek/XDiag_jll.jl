@@ -16,14 +16,32 @@ The tarballs for `XDiag_jll.jl` have been built from these sources:
 
 `XDiag_jll.jl` is available for the following platforms:
 
+* `macOS aarch64 {julia_version=1.10.0}` (`aarch64-apple-darwin-julia_version+1.10.0`)
+* `macOS aarch64 {julia_version=1.7.0}` (`aarch64-apple-darwin-julia_version+1.7.0`)
+* `macOS aarch64 {julia_version=1.8.2}` (`aarch64-apple-darwin-julia_version+1.8.2`)
+* `macOS aarch64 {julia_version=1.9.0}` (`aarch64-apple-darwin-julia_version+1.9.0`)
+* `Linux aarch64 {julia_version=1.10.0, libc=glibc}` (`aarch64-linux-gnu-julia_version+1.10.0`)
+* `Linux aarch64 {julia_version=1.7.0, libc=glibc}` (`aarch64-linux-gnu-julia_version+1.7.0`)
+* `Linux aarch64 {julia_version=1.8.2, libc=glibc}` (`aarch64-linux-gnu-julia_version+1.8.2`)
+* `Linux aarch64 {julia_version=1.9.0, libc=glibc}` (`aarch64-linux-gnu-julia_version+1.9.0`)
+* `macOS x86_64 {julia_version=1.10.0}` (`x86_64-apple-darwin-julia_version+1.10.0`)
+* `macOS x86_64 {julia_version=1.7.0}` (`x86_64-apple-darwin-julia_version+1.7.0`)
+* `macOS x86_64 {julia_version=1.8.2}` (`x86_64-apple-darwin-julia_version+1.8.2`)
+* `macOS x86_64 {julia_version=1.9.0}` (`x86_64-apple-darwin-julia_version+1.9.0`)
+* `Linux x86_64 {julia_version=1.10.0, libc=glibc}` (`x86_64-linux-gnu-julia_version+1.10.0`)
+* `Linux x86_64 {julia_version=1.7.0, libc=glibc}` (`x86_64-linux-gnu-julia_version+1.7.0`)
+* `Linux x86_64 {julia_version=1.8.2, libc=glibc}` (`x86_64-linux-gnu-julia_version+1.8.2`)
 * `Linux x86_64 {julia_version=1.9.0, libc=glibc}` (`x86_64-linux-gnu-julia_version+1.9.0`)
+* `Windows x86_64 {julia_version=1.10.0}` (`x86_64-w64-mingw32-julia_version+1.10.0`)
+* `Windows x86_64 {julia_version=1.7.0}` (`x86_64-w64-mingw32-julia_version+1.7.0`)
+* `Windows x86_64 {julia_version=1.8.2}` (`x86_64-w64-mingw32-julia_version+1.8.2`)
+* `Windows x86_64 {julia_version=1.9.0}` (`x86_64-w64-mingw32-julia_version+1.9.0`)
 
 ## Dependencies
 
 The following JLL packages are required by `XDiag_jll.jl`:
 
 * `CompilerSupportLibraries_jll`
-* `HDF5_jll`
 * `OpenBLAS_jll`
 * `libcxxwrap_julia_jll`
 

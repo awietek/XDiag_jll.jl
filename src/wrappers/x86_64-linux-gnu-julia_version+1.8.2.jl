@@ -3,12 +3,11 @@ export xdiagjl
 
 using libcxxwrap_julia_jll
 using OpenBLAS_jll
-using HDF5_jll
 using CompilerSupportLibraries_jll
 JLLWrappers.@generate_wrapper_header("XDiag")
 JLLWrappers.@declare_library_product(xdiagjl, "libxdiagjl.so")
 function __init__()
-    JLLWrappers.@generate_init_header(libcxxwrap_julia_jll, OpenBLAS_jll, HDF5_jll, CompilerSupportLibraries_jll)
+    JLLWrappers.@generate_init_header(libcxxwrap_julia_jll, OpenBLAS_jll, CompilerSupportLibraries_jll)
     JLLWrappers.@init_library_product(
         xdiagjl,
         "lib/libxdiagjl.so",
