@@ -10,29 +10,34 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 
 The tarballs for `XDiag_jll.jl` have been built from these sources:
 
-* git repository: https://github.com/awietek/xdiag.git (revision: `1770d1d9efc1f189d62cd2b1888911a5cbb57eb9`)
+* git repository: https://github.com/awietek/xdiag.git (revision: `9a91ed0511299ea9f5ab9fbc1d5b8d2fd74a750d`)
 
 ## Platforms
 
 `XDiag_jll.jl` is available for the following platforms:
 
 * `macOS aarch64 {julia_version=1.10.0}` (`aarch64-apple-darwin-julia_version+1.10.0`)
+* `macOS aarch64 {julia_version=1.11.0}` (`aarch64-apple-darwin-julia_version+1.11.0`)
 * `macOS aarch64 {julia_version=1.7.0}` (`aarch64-apple-darwin-julia_version+1.7.0`)
 * `macOS aarch64 {julia_version=1.8.2}` (`aarch64-apple-darwin-julia_version+1.8.2`)
 * `macOS aarch64 {julia_version=1.9.0}` (`aarch64-apple-darwin-julia_version+1.9.0`)
 * `Linux aarch64 {julia_version=1.10.0, libc=glibc}` (`aarch64-linux-gnu-julia_version+1.10.0`)
+* `Linux aarch64 {julia_version=1.11.0, libc=glibc}` (`aarch64-linux-gnu-julia_version+1.11.0`)
 * `Linux aarch64 {julia_version=1.7.0, libc=glibc}` (`aarch64-linux-gnu-julia_version+1.7.0`)
 * `Linux aarch64 {julia_version=1.8.2, libc=glibc}` (`aarch64-linux-gnu-julia_version+1.8.2`)
 * `Linux aarch64 {julia_version=1.9.0, libc=glibc}` (`aarch64-linux-gnu-julia_version+1.9.0`)
 * `macOS x86_64 {julia_version=1.10.0}` (`x86_64-apple-darwin-julia_version+1.10.0`)
+* `macOS x86_64 {julia_version=1.11.0}` (`x86_64-apple-darwin-julia_version+1.11.0`)
 * `macOS x86_64 {julia_version=1.7.0}` (`x86_64-apple-darwin-julia_version+1.7.0`)
 * `macOS x86_64 {julia_version=1.8.2}` (`x86_64-apple-darwin-julia_version+1.8.2`)
 * `macOS x86_64 {julia_version=1.9.0}` (`x86_64-apple-darwin-julia_version+1.9.0`)
 * `Linux x86_64 {julia_version=1.10.0, libc=glibc}` (`x86_64-linux-gnu-julia_version+1.10.0`)
+* `Linux x86_64 {julia_version=1.11.0, libc=glibc}` (`x86_64-linux-gnu-julia_version+1.11.0`)
 * `Linux x86_64 {julia_version=1.7.0, libc=glibc}` (`x86_64-linux-gnu-julia_version+1.7.0`)
 * `Linux x86_64 {julia_version=1.8.2, libc=glibc}` (`x86_64-linux-gnu-julia_version+1.8.2`)
 * `Linux x86_64 {julia_version=1.9.0, libc=glibc}` (`x86_64-linux-gnu-julia_version+1.9.0`)
 * `Windows x86_64 {julia_version=1.10.0}` (`x86_64-w64-mingw32-julia_version+1.10.0`)
+* `Windows x86_64 {julia_version=1.11.0}` (`x86_64-w64-mingw32-julia_version+1.11.0`)
 * `Windows x86_64 {julia_version=1.7.0}` (`x86_64-w64-mingw32-julia_version+1.7.0`)
 * `Windows x86_64 {julia_version=1.8.2}` (`x86_64-w64-mingw32-julia_version+1.8.2`)
 * `Windows x86_64 {julia_version=1.9.0}` (`x86_64-w64-mingw32-julia_version+1.9.0`)
