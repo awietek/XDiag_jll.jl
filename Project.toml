@@ -1,6 +1,6 @@
 name = "XDiag_jll"
 uuid = "05e47fe5-458f-5313-a276-ec18ac0ef94c"
-version = "0.2.0+0"
+version = "0.2.0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
